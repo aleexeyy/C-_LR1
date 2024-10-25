@@ -1,0 +1,11 @@
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.AssemblyInfoInputs.cache
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.AssemblyInfo.cs
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.csproj.CoreCompileInputs.cache
+/Users/alex/Developer/C#/LR1/FractionWork/bin/Debug/net8.0/FractionWork.deps.json
+/Users/alex/Developer/C#/LR1/FractionWork/bin/Debug/net8.0/FractionWork.dll
+/Users/alex/Developer/C#/LR1/FractionWork/bin/Debug/net8.0/FractionWork.pdb
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.dll
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/refint/FractionWork.dll
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/FractionWork.pdb
+/Users/alex/Developer/C#/LR1/FractionWork/obj/Debug/net8.0/ref/FractionWork.dll

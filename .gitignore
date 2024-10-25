@@ -1,0 +1,13 @@
+# Ignore build artifacts
+/bin/
+/obj/
+/*.user
+/*.suo
+/*.sln.ide
+/.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore other files you don't want to track
